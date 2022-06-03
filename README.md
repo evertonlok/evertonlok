@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 ### Did you like what you just saw?? Contact me :wink:
 <div>
 <a href = "mailto:evertonsantosilva18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/everton-dos-santos-silva-318bb316" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/everton-dos-santos-silva-318bb316b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
