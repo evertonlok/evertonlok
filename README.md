@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div display="inline-block">
  
  <h1 align="left">Everton Silva</h1>
-  UI engenieer with 3 years of experience in love with web development, 23 years old and gratuated in 2022 with a degree in Information System :nerd_face:
+  UI engenieer with 3 years of experience in love with web development, 23 years old :nerd_face:
     </br>
     </br>
    ⚡ Fun fact: I hate coffe :see_no_evil:
